@@ -1,0 +1,19 @@
+body {
+    margin: 40px;
+  }
+  .idcard {
+    width: 200px;
+  }
+  .card {
+    border-bottom: 6px solid #ffafcc;
+    width: 500px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    background: #ffc8dd;
+    color: #2b2839; 
+    font-family: verdana, sans serif;
+    margin: 0 auto;
+    border-radius: 30px;
+    text-align: center;
+  }
